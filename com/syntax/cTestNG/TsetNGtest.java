@@ -1,4 +1,4 @@
-package com.syntax.test;
+package com.syntax.cTestNG;
 
 import org.testng.annotations.Test;
 
